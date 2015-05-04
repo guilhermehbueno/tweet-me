@@ -1,7 +1,7 @@
 {
   "name": "tweet-me",
   "version": "0.0.0",
-  "description": "",
+  "description": "Simple tool to send and receive direct messages from twitter",
   "main": "Tweetme.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/guilhermehbueno/tweet-me",
   "dependencies": {
-    "twit": "^1.1.20"
+    "mocha": "^2.2.4",
+    "twit": "^1.1.20",
+    "uuid": "^2.0.1"
   }
 }
