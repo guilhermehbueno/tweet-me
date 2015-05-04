@@ -1,0 +1,22 @@
+{
+  "name": "tweet-me",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Tweetme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guilhermehbueno/tweet-me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermehbueno/tweet-me/issues"
+  },
+  "homepage": "https://github.com/guilhermehbueno/tweet-me",
+  "dependencies": {
+    "twit": "^1.1.20"
+  }
+}
