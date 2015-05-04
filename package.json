@@ -1,6 +1,6 @@
 {
   "name": "tweet-me",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple tool to send and receive direct messages from twitter",
   "main": "Tweetme.js",
   "scripts": {
