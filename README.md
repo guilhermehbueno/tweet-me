@@ -2,7 +2,7 @@
 
 npm install tweet-me
 
-
+```javascript
 var options = {
     consumer_key: '',
     consumer_secret: '',
@@ -22,3 +22,4 @@ tweetMe.on("direct_message", function(message) {
 
     });
 });
+```
