@@ -15,7 +15,7 @@ tweetMe.on("direct_message", function(message) {
     var directMessage = {
         user_id: directMsg.direct_message.sender.id,
         screen_name: directMsg.direct_message.sender.screen_name,
-        text: 'Mensagem recebida'
+        text: 'Hello'
     };
 
     tweetMe.sendDirectMessage(directMessage, function(err, reply) {
